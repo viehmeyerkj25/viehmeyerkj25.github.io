@@ -1,0 +1,65 @@
+		.main {background-color: cyan; text-align: center; margin: auto;
+		
+		border: solid black 2px; padding-left: 10px}
+		
+		ol {text-align: center;}
+
+		img {position: float; opacity: 1;}
+		
+		#f1 {position: fixed; top: 200px; left: 100px;}
+		
+		ul li {float:center; list-style-type:none;}
+	   
+	   #frame {border: solid red 2px;
+				width: 315px; height:210px;
+				margin: auto;}
+		.photo   {border: solid blue 2px; 
+			    width: 180px; height: 180px;
+		        float: left; margin 5px; }
+		
+	   
+	   .banner {text-align: left;
+			margin: 0px;
+			width:100%;
+			background-color: cyan;
+			border: solid black 1px;
+			text-align: center;}
+		
+		button {	background-color: darkblue;
+			color: white;
+			padding: 10px;
+			border-radius: 60px;
+			margin: 0px;
+			width: 10%;
+			text-align: center;}
+		
+		.body { 
+			
+
+			position: relative;
+			text-align: center; margin: auto;
+			background-size: contain;
+			min-height:700px;
+ 
+			border: solid black 2px;
+			padding-left: 10px
+			}
+		.disclaimer {background-color: cyan;
+			text-align: left;
+			margin: auto;
+			border: solid black 2px;}
+		
+		.text {
+			
+			font-size: 18pt;
+			text-align: center;
+			opacity: 1;
+			position: relative;
+			}
+		/* .img {
+			
+			top: 0; left: 0;
+			height: 100%; width:100%;
+			position: absolute;
+			opacity: .35;
+			background: url(logo.jpg) no-repeat center center fixed;} */
